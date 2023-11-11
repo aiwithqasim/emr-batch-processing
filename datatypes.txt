@@ -1,0 +1,2 @@
+added bigint, channel string, cityName string, comment string, countryIsoCode string, countryName string, deleted bigint, delta bigint, isAnonymous boolean, isMinor boolean, isNew boolean, isRobot boolean, isUnpatrolled boolean, metroCode bigint, namespace string, page string, regionIsoCode string, regionName string, time string, user string
+
